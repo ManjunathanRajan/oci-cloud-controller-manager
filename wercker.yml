@@ -1,4 +1,4 @@
-box: iad.ocir.io/spinnaker/oci-kube-ci:1.0.3
+box: iad.ocir.io/odx-mockcustomer/oci-kube-ci:1.0.4
 no-response-timeout: 30
 command-timeout: 30
 
